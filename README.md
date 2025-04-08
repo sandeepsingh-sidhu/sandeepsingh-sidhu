@@ -1,10 +1,10 @@
-<!-- Clean Header with Subtle Emphasis -->
+
 <div align="center">
   <h1>👋 Hi, I'm Sandeep Singh Sidhu</h1>
   <h3>A Passionate engineer.</h3>
 </div>
 
-<!-- Profile Stats & Badges (Compact Layout) -->
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sandeepsingh-sidhu&color=blue&style=flat-square">
   <a href="https://twitter.com/_sandeep_sidhu_">
@@ -14,8 +14,8 @@
 
 <br>
 
-<!-- Tech Stack Section -->
-### 🛠️ My Toolkit
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
