@@ -1,7 +1,7 @@
 <!-- Clean Header with Subtle Emphasis -->
 <div align="center">
   <h1>👋 Hi, I'm Sandeep Singh Sidhu</h1>
-  <h3>Building with Passion • Learning in Public • Open Source Explorer</h3>
+  <h3>A Passionate engineer.</h3>
 </div>
 
 <!-- Profile Stats & Badges (Compact Layout) -->
@@ -24,14 +24,4 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 </p>
 
-<!-- Stats Grid -->
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sandeepsingh-sidhu&show_icons=true&theme=default&hide_border=true">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepsingh-sidhu&theme=default&hide_border=true">
-</div>
 
-<!-- Optional Section (Add if relevant) -->
-### 🌱 Currently Exploring
-<p align="center">
-  <i>Open source contributions • Web development foundations • Clean code practices</i>
-</p>
