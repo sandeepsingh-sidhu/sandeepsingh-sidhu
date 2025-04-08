@@ -1,16 +1,37 @@
-<h1 align="center">Hi 👋, I'm Sandeep Singh Sidhu</h1>
-<h3 align="center">A passionate engineer.</h3>
+<!-- Clean Header with Subtle Emphasis -->
+<div align="center">
+  <h1>👋 Hi, I'm Sandeep Singh Sidhu</h1>
+  <h3>Building with Passion • Learning in Public • Open Source Explorer</h3>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepsingh-sidhu&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepsingh-sidhu" /> </p>
+<!-- Profile Stats & Badges (Compact Layout) -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=sandeepsingh-sidhu&color=blue&style=flat-square">
+  <a href="https://twitter.com/_sandeep_sidhu_">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white">
+  </a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepsingh-sidhu" alt="sandeepsingh-sidhu" /></a> </p>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_sandeep_sidhu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_sandeep_sidhu_" height="30" width="40" /></a>
+<!-- Tech Stack Section -->
+### 🛠️ My Toolkit
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- Stats Grid -->
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sandeepsingh-sidhu&show_icons=true&theme=default&hide_border=true">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepsingh-sidhu&theme=default&hide_border=true">
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeepsingh-sidhu&show_icons=true&locale=en" alt="sandeepsingh-sidhu" /></p>
+<!-- Optional Section (Add if relevant) -->
+### 🌱 Currently Exploring
+<p align="center">
+  <i>Open source contributions • Web development foundations • Clean code practices</i>
+</p>
